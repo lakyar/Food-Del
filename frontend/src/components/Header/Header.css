@@ -56,3 +56,12 @@
         padding: 2vw 4vw;
     }
 }
+
+
+
+.emote{
+    height: 100%;
+    position: absolute;
+    bottom: 10px;
+    left: 100%;
+}
